@@ -50,6 +50,13 @@ The MPU6050 continuously measures the robot's tilt angle using its accelerometer
 
 ---
 
+## Circuit Diagram
+<img width="690" height="400" alt="image" src="https://github.com/user-attachments/assets/8be81269-f383-4200-8e23-916549b8cdfa" />
+
+## Block Diagram
+<img width="700" height="414" alt="image" src="https://github.com/user-attachments/assets/3cef05fa-d587-4418-b7c4-bcc3ed8b4a06" />
+
+
 ## Demo Video
 https://youtube.com/shorts/fuqYVmuDXw8
 <br>
